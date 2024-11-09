@@ -27,7 +27,7 @@ img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.c
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyush-99&show_icons=true&locale=en&layout=compact" alt="pratyush-99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyush-99&show_icons=true&locale=en" alt="pratyush-99" /></p>
-<P>Show some by ❤️starring some of the repository.</P>
+<P>Show some ❤️ by starring some of the repository.</P>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
