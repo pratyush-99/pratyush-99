@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyush Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate Full-Stack Developer from India 🚀 | Building Secure APIs | Competitive Coder</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJUJHN1rDRGRbNTk0Q&s">
 
