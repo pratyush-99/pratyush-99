@@ -5,15 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush-99&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush-99" /> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **OPD Management System**
 
-- 🌱 I’m currently learning **React Native**
+👨‍💻 I enjoy building **Full-Stack Web Applications and Secure APIs**
 
-- 💬 Ask me about **MEARN,CP**
+💬 Ask me about **MERN Stack, Competitive Programming, API Development**
 
-- 📫 How to reach me **kpratyush790960@gmail.com**
+🧠 Strong interest in **Data Structures & Problem Solving**
 
-- ⚡ Fun fact **I AM FUNNY**
+📫 How to reach me: **kpratyush790960@gmail.com**
+
+⚡ Fun fact: **I love coding and making people laugh 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
