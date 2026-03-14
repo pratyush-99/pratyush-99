@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush-99&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush-99" /> </p>
 
-- 🔭 I’m currently working on **OPD Management System**
+ 🔭 I’m currently working on **OPD Management System**
 
 👨‍💻 I enjoy building **Full-Stack Web Applications and Secure APIs**
 
